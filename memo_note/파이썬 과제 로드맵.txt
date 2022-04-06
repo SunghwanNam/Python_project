@@ -1,0 +1,10 @@
+inValue1은 집어넣을 연도주차다   201720
+
+nextInValue1 은 inValue1에서 앞의 4글자만 가져온다. 이후 스트링으로 캐스팅함
+
+inValue2 는 연산할 값이다.
+
+Week(2017,20)[1] 에서 
+inValue2를 빼야한다.
+
+sumWithInvalue2에 저장한다.
